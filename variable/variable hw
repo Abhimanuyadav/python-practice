@@ -1,1 +1,27 @@
+student_name= "abhimanu"
+student_age= "19"
+student_branch= "ece"
 
+print(student_age,student_branch,student_name)
+
+student_mark= "99"
+student_mark= "100"
+print(student_mark)
+
+x=y=z=0
+print(x,y,z)
+student = "rahul"
+student_name ="rahul"
+batch="B.tech"
+
+
+age_int=18
+Age_float=19.0
+aGe_string="22"
+AgE_boolean=True
+result_nonetype=None
+print("student info:",type(age_int))
+print(type(Age_float))
+print(type(aGe_string))
+print(type(AgE_boolean))
+print(type(result_nonetype))
